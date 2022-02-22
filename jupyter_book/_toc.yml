@@ -1,0 +1,11 @@
+format: jb-book
+root: book/index
+parts:
+- caption: Тема 1 
+  chapters:
+  - file: book/topic01/topic01_pandas_data_analysis.md
+    title: Первичный анализ данных
+  - file: book/topic01/videolecture01.md
+    title: Лекция 1
+  - file: book/topic01/assignment01_pandas_uci_adult.md
+    title: Задание 1 
